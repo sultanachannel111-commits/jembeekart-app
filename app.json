@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "JembeeKart",
+    "slug": "jembeekart",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.jembeekart.app"
+    }
+  }
+}
