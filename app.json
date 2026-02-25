@@ -26,11 +26,19 @@
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#FFD6E8"
       },
-      "permissions": ["INTERNET"]
+      "permissions": [
+        "INTERNET"
+      ]
     },
 
     "web": {
       "favicon": "./assets/icon.png"
+    },
+
+    "extra": {
+      "eas": {
+        "projectId": "d1196dde-bc80-42e7-b074-26e75665f8d1"
+      }
     }
   }
 }
