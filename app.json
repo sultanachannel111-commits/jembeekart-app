@@ -26,7 +26,9 @@
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#FFD6E8"
       },
-      "permissions": ["INTERNET"]
+      "permissions": [
+        "INTERNET"
+      ]
     },
 
     "web": {
@@ -35,7 +37,7 @@
 
     "extra": {
       "eas": {
-        "projectId": "11196dbe-bc80-4e27-b074-26e756b5f8d1"
+        "projectId": "d11196dbe-bc80-42e7-b074-26e756b5f8d1"
       }
     }
   }
